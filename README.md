@@ -3,6 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ByteDance
 - 🌱 I’m currently learning Rust
+- 📮 I’m currently writing a news letter [FE News](https://rottenpen.zhubai.love)
 - 🧱 I’m currently contributing on [front-end-daily-question](https://github.com/everest-architecture/front-end-daily-question)
 - 📫 How to reach me: wx: pen1005
 
